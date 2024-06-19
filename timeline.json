@@ -121,7 +121,7 @@
       },
       "text": {
         "headline": "Element Fleet Management Corp",
-        "text": "<ul><li>Worked on various complex interface and integration frameworks with SAP CPI for FI-CA, Banking, S2P domains.</li><li>Automated Payment Lot creation and FI posting for bank BAI file.</li><li>Introduced automation of email sending with attachment for Account Statement from Correspondence creation.</li><li>Developed CDS views and OData services to create requirement specific APIs for lookup tables, IDoc acknowledgement etc.</li></ul>"
+        "text": "<ul><li>Worked on various complex interface and integration frameworks with SAP CPI for FI-CA, Banking, S2P domains.</li><li>Worked on automated electronic invoice creation and sending through ABAP Proxy</li><li>Automated Payment Lot creation and FI posting for bank BAI file.</li><li>Introduced automation of email sending with attachment for Account Statement from Correspondence creation.</li><li>Developed CDS views and OData services to create requirement specific APIs for lookup tables, IDoc acknowledgement etc.</li></ul>"
       },
       "background": {
         "color": "#9880b0"
@@ -139,7 +139,7 @@
       },
       "text": {
         "headline": "Vossloh AG",
-        "text": "<ul><li>Automated project creation and account assignment on WBS element based on opportunity.</li><li>Implemented complex pricing routine and commission object for O2C.</li><li>Managed project activities in leading role</li></ul>"
+        "text": "<ul><li>Automated project creation and account assignment on WBS element based on opportunity.</li><li>Created APP for automated draft billing creation for both engagement and phase level</li><li>Worked on automated engagement creation from opportunity</li><li>Implemented complex pricing routine and commission object for O2C.</li><li>Managed project activities in leading role</li></ul>"
       },
       "background": {
         "color": "#9880b0"
